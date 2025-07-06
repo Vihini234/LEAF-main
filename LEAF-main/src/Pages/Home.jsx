@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="home-container">
       <div className="hero-section">
-        <h1>Welcome to MyApp</h1>
+        <h1>WELCOME TO MY APP</h1>
         <p>Your amazing application starts here</p>
         <div className="hero-buttons">
           <Link to="/login" className="btn btn-primary">
